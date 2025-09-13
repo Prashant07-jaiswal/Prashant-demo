@@ -1,2 +1,3 @@
 # Prashant-demo
-This is my repository
+This is my first repository.
+Author - Prashant Jaiswal
